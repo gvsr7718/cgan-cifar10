@@ -1,0 +1,23 @@
+# Core Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific Computing & Data Manipulation
+numpy>=1.24.0,<2.0.0
+scipy>=1.10.0
+pillow>=9.5.0
+
+# Visualization & Plotting
+matplotlib>=3.7.0
+
+# Configuration Management
+pyyaml>=6.0
+
+# Progress Tracking & CLI Utilities
+tqdm>=4.65.0
+
+# Evaluation & Metrics
+torchmetrics>=1.0.0
+
+# Web Application & Demo Interface
+streamlit>=1.30.0
